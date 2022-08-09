@@ -10,7 +10,7 @@
 
 - 🤖 I own a discord giveaway bot that u can **[invite](https://discord.com/api/oauth2/authorize?client_id=985172109644935218&permissions=8&scope=applications.commands%20bot)**
 
-- 👨‍💻 All of my projects are available at **[Dev Wrld Discord](https://discord.gg/devwrld)**
+- 👨‍💻 All of my projects are available at **[COMING SOON](https://discord.gg/)**
 
 ## 🚀 Languages and Tools:
 
