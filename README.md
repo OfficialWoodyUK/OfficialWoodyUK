@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at **[COMING SOON](https://discord.gg/)**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialwoodyuk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>" alt="officialwoodyuk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialwoodyuk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="officialwoodyuk" /></a> </p>
 
 ## 🚀 Languages and Tools:
 
