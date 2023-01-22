@@ -28,9 +28,9 @@
 ## 📊 My Github Stats
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialwoodyuk&show_icons=true&locale=en&layout=compact" alt="officialwoodyuk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialwoodyuk&show_icons=true&locale=en&layout=compacte&stroke=0000&background=060A0CD0" alt="officialwoodyuk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialwoodyuk&show_icons=true&locale=en" alt="officialwoodyuk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialwoodyuk&show_icons=true&locale=ene&stroke=0000&background=060A0CD0" alt="officialwoodyuk" /></p>
 
 <p align="left">
     <a href="https://github.com/OfficialWoodyUK/github-readme-streak-stats">
