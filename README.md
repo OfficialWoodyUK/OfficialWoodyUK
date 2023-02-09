@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **FiveM Scripts and Discord Tools!**
 
-- 🙋‍♂️ My discord is: Woody#7487
-
-- 🤖 I own a discord giveaway bot that u can **[invite](https://discord.com/api/oauth2/authorize?client_id=985172109644935218&permissions=8&scope=applications.commands%20bot)**
+- 🙋‍♂️ My discord is: Woody#6969
 
 - 👨‍💻 All of my projects are available at **[COMING SOON](https://discord.gg/)**
 
