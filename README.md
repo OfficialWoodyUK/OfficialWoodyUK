@@ -7,7 +7,6 @@
 
 ### 🛠️ Current Projects
 
-- **Mythic Framework Contributor**: Building immersive experiences in FiveM using  [Mythic Framework](http://repos.mythic-framework.org/Mythic-Framework/mythic-framework).
 - **FiveM Scripts**: Custom scripts designed to enhance roleplaying and server management.
 - **Discord Tools**: Developing bots and tools to streamline community management.
 
